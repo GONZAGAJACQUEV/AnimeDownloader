@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 15, 15, 10:59:01 PM
+    Author     : jdomugho
+*/
+
+/*
+    color schemes
+    #1e1e20
+    #242527
+    #3d5271
+    #2f6e8f
+    #2e2e30
+    #7b9122
+    #abaaa6
+*/
+
+body{
+    background-color: #1e1e20;
+    color: #abaaa6;
+}
+
+#topNavigation{
+    background-color: #242527;
+    height: 50px;
+    color: #abaaa6;
+    padding: 15px;    
+}
+
+#top-nav-toggle > i{
+    cursor: pointer
+}
+
+#top-nav-menu{
+    position: relative;
+    text-align: right;
+}
+
+#sideNavigation{
+    background-color: #1e1e20;
+    color: #abaaa6;
+    padding: 15px;
+    width: 210px;
+    display: block
+}
+
+#sideNavigation a{
+    color: #abaaa6;    
+}
+
+#sideNavigation a:hover{
+    background-color: #242527;
+    text-decoration: none;
+}
+
+#page-content{
+    position: absolute;
+    background-color: #2e2e30;
+    left: 210px;
+    top: 0px;
+    right:0px;   
+}
+
+/*overrides*/
+.table>tbody>td, .table>tbody>th{
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #242527 !important;
+}

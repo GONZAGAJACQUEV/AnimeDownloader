@@ -1,0 +1,17 @@
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/config/SecurityConfig.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/config/Config.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/controllers/EpisodeController.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/util/site/SiteFetcher.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/test/ScrapeVid.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/bean/series/scraper/NarutoScraper.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/bean/scrape/Scraper.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/util/site/SiteCookies.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/bean/scrape/SeriesHandler.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/util/Ticket.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/controllers/IndexController.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/config/MVCInitializer.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/util/downloader/VideoDownloader.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/test/TestMain.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/config/SecurityInit.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/util/site/SiteParams.java
+/home/jgonzaga/Desktop/AnimeDownloader/src/main/java/com/animedownloader/util/Tickets.java
